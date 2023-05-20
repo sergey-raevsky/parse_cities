@@ -1,0 +1,1472 @@
+[
+  {
+    "city_name": "Aachen",
+    "halteverbot": "175,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "175,00 Euro"
+  },
+  {
+    "city_name": "Aalen",
+    "halteverbot": "207,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "207,00 Euro"
+  },
+  {
+    "city_name": "Abstatt",
+    "halteverbot": "159,00 Euro",
+    "genehmigung": "60,00 Euro",
+    "gesamt": "219,00 Euro"
+  },
+  {
+    "city_name": "Achern",
+    "halteverbot": "190,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "190,00 Euro"
+  },
+  {
+    "city_name": "Achim",
+    "halteverbot": "169,00 Euro",
+    "genehmigung": "40,00 Euro",
+    "gesamt": "209,00 Euro"
+  },
+  {
+    "city_name": "Adenbüttel",
+    "halteverbot": "130,00 Euro",
+    "genehmigung": "43,00 Euro",
+    "gesamt": "173,00 Euro"
+  },
+  {
+    "city_name": "Adendorf",
+    "halteverbot": "192,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "192,00 Euro"
+  },
+  {
+    "city_name": "Ahaus",
+    "halteverbot": "188,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "188,00 Euro"
+  },
+  {
+    "city_name": "Ahlen",
+    "halteverbot": "155,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "155,00 Euro"
+  },
+  {
+    "city_name": "Ahnatal",
+    "halteverbot": "154,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "154,00 Euro"
+  },
+  {
+    "city_name": "Ahrensburg",
+    "halteverbot": "125,00 Euro",
+    "genehmigung": "18,00 Euro",
+    "gesamt": "143,00 Euro"
+  },
+  {
+    "city_name": "Ahrensfelde",
+    "halteverbot": "82,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "82,00 Euro"
+  },
+  {
+    "city_name": "Aichach",
+    "halteverbot": "140,00 Euro",
+    "genehmigung": "35,00 Euro",
+    "gesamt": "175,00 Euro"
+  },
+  {
+    "city_name": "Aichhalden",
+    "halteverbot": "183,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "183,00 Euro"
+  },
+  {
+    "city_name": "Aichtal",
+    "halteverbot": "120,00 Euro",
+    "genehmigung": "30,00 Euro",
+    "gesamt": "150,00 Euro"
+  },
+  {
+    "city_name": "Aichwald",
+    "halteverbot": "123,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "123,00 Euro"
+  },
+  {
+    "city_name": "Aidlingen",
+    "halteverbot": "178,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "178,00 Euro"
+  },
+  {
+    "city_name": "Albstadt",
+    "halteverbot": "194,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "194,00 Euro"
+  },
+  {
+    "city_name": "Aldenhoven",
+    "halteverbot": "237,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "237,00 Euro"
+  },
+  {
+    "city_name": "Alfeld",
+    "halteverbot": "198,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "198,00 Euro"
+  },
+  {
+    "city_name": "Alfter",
+    "halteverbot": "146,00 Euro",
+    "genehmigung": "55,00 Euro",
+    "gesamt": "201,00 Euro"
+  },
+  {
+    "city_name": "Allensbach",
+    "halteverbot": "192,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "192,00 Euro"
+  },
+  {
+    "city_name": "Alling",
+    "halteverbot": "115,00 Euro",
+    "genehmigung": "35,00 Euro",
+    "gesamt": "150,00 Euro"
+  },
+  {
+    "city_name": "Allmersbach im Tal",
+    "halteverbot": "100,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "100,00 Euro"
+  },
+  {
+    "city_name": "Alpen",
+    "halteverbot": "224,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "224,00 Euro"
+  },
+  {
+    "city_name": "Alsbach",
+    "halteverbot": "127,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "127,00 Euro"
+  },
+  {
+    "city_name": "Alsdorf",
+    "halteverbot": "175,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "175,00 Euro"
+  },
+  {
+    "city_name": "Altdorf",
+    "halteverbot": "168,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "168,00 Euro"
+  },
+  {
+    "city_name": "Altdorf bei Nürnberg",
+    "halteverbot": "200,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "200,00 Euro"
+  },
+  {
+    "city_name": "Altefähr",
+    "halteverbot": "128,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "128,00 Euro"
+  },
+  {
+    "city_name": "Altena",
+    "halteverbot": "138,00 Euro",
+    "genehmigung": "40,00 Euro",
+    "gesamt": "178,00 Euro"
+  },
+  {
+    "city_name": "Altenburg",
+    "halteverbot": "187,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "187,00 Euro"
+  },
+  {
+    "city_name": "Altenholz",
+    "halteverbot": "128,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "128,00 Euro"
+  },
+  {
+    "city_name": "Altenstadt",
+    "halteverbot": "229,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "229,00 Euro"
+  },
+  {
+    "city_name": "Altensteig",
+    "halteverbot": "197,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "197,00 Euro"
+  },
+  {
+    "city_name": "Altlandsberg",
+    "halteverbot": "182,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "182,00 Euro"
+  },
+  {
+    "city_name": "Altlußheim",
+    "halteverbot": "129,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "129,00 Euro"
+  },
+  {
+    "city_name": "Altrip",
+    "halteverbot": "135,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "135,00 Euro"
+  },
+  {
+    "city_name": "Alzenau",
+    "halteverbot": "238,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "238,00 Euro"
+  },
+  {
+    "city_name": "Alzey",
+    "halteverbot": "195,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "195,00 Euro"
+  },
+  {
+    "city_name": "Amberg",
+    "halteverbot": "227,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "227,00 Euro"
+  },
+  {
+    "city_name": "Ammerbuch",
+    "halteverbot": "227,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "227,00 Euro"
+  },
+  {
+    "city_name": "Ammersbek",
+    "halteverbot": "128,00 Euro",
+    "genehmigung": "30,00 Euro",
+    "gesamt": "158,00 Euro"
+  },
+  {
+    "city_name": "Amtzell",
+    "halteverbot": "117,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "117,00 Euro"
+  },
+  {
+    "city_name": "Andernach",
+    "halteverbot": "141,20 Euro",
+    "genehmigung": "61,80 Euro",
+    "gesamt": "203,00 Euro"
+  },
+  {
+    "city_name": "Annaberg-Buchholz",
+    "halteverbot": "162,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "162,00 Euro"
+  },
+  {
+    "city_name": "Ansbach",
+    "halteverbot": "207,00 Euro",
+    "genehmigung": "25,00 Euro",
+    "gesamt": "232,00 Euro"
+  },
+  {
+    "city_name": "Apolda",
+    "halteverbot": "190,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "190,00 Euro"
+  },
+  {
+    "city_name": "Appen",
+    "halteverbot": "184,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "184,00 Euro"
+  },
+  {
+    "city_name": "Arnsberg",
+    "halteverbot": "177,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "177,00 Euro"
+  },
+  {
+    "city_name": "Arnstadt",
+    "halteverbot": "197,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "197,00 Euro"
+  },
+  {
+    "city_name": "Aschaffenburg",
+    "halteverbot": "149,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "149,00 Euro"
+  },
+  {
+    "city_name": "Aschheim",
+    "halteverbot": "144,00 Euro",
+    "genehmigung": "50,00 Euro",
+    "gesamt": "194,00 Euro"
+  },
+  {
+    "city_name": "Asperg",
+    "halteverbot": "144,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "144,00 Euro"
+  },
+  {
+    "city_name": "Attendorn",
+    "halteverbot": "205,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "205,00 Euro"
+  },
+  {
+    "city_name": "Aue",
+    "halteverbot": "173,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "173,00 Euro"
+  },
+  {
+    "city_name": "Auenwald",
+    "halteverbot": "145,00 Euro",
+    "genehmigung": "30,00 Euro",
+    "gesamt": "175,00 Euro"
+  },
+  {
+    "city_name": "Augsburg",
+    "halteverbot": "170,00 Euro",
+    "genehmigung": "30,00 Euro",
+    "gesamt": "200,00 Euro"
+  },
+  {
+    "city_name": "Augustusburg",
+    "halteverbot": "175,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "175,00 Euro"
+  },
+  {
+    "city_name": "Aumühle",
+    "halteverbot": "139,00 Euro",
+    "genehmigung": "75,00 Euro",
+    "gesamt": "214,00 Euro"
+  },
+  {
+    "city_name": "Aurich",
+    "halteverbot": "249,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "249,00 Euro"
+  },
+  {
+    "city_name": "Aßlar",
+    "halteverbot": "162,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "162,00 Euro"
+  },
+  {
+    "city_name": "Babenhausen",
+    "halteverbot": "223,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "223,00 Euro"
+  },
+  {
+    "city_name": "Backnang",
+    "halteverbot": "190,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "190,00 Euro"
+  },
+  {
+    "city_name": "Bad Aibling",
+    "halteverbot": "115,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "115,00 Euro"
+  },
+  {
+    "city_name": "Bad Barmstedt",
+    "halteverbot": "142,00 Euro",
+    "genehmigung": "100,00 Euro",
+    "gesamt": "242,00 Euro"
+  },
+  {
+    "city_name": "Bad Bentheim",
+    "halteverbot": "172,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "172,00 Euro"
+  },
+  {
+    "city_name": "Bad Bevensen",
+    "halteverbot": "299,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "299,00 Euro"
+  },
+  {
+    "city_name": "Bad Boll",
+    "halteverbot": "168,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "168,00 Euro"
+  },
+  {
+    "city_name": "Bad Bramstedt",
+    "halteverbot": "154,00 Euro",
+    "genehmigung": "100,00 Euro",
+    "gesamt": "254,00 Euro"
+  },
+  {
+    "city_name": "Bad Breisig",
+    "halteverbot": "204,00 Euro",
+    "genehmigung": "66,00 Euro",
+    "gesamt": "270,00 Euro"
+  },
+  {
+    "city_name": "Bad Camberg",
+    "halteverbot": "144,00 Euro",
+    "genehmigung": "25,00 Euro",
+    "gesamt": "169,00 Euro"
+  },
+  {
+    "city_name": "Bad Ditzenbach",
+    "halteverbot": "183,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "183,00 Euro"
+  },
+  {
+    "city_name": "Bad Doberan",
+    "halteverbot": "149,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "149,00 Euro"
+  },
+  {
+    "city_name": "Bad Driburg",
+    "halteverbot": "198,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "198,00 Euro"
+  },
+  {
+    "city_name": "Bad Dürrheim",
+    "halteverbot": "185,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "185,00 Euro"
+  },
+  {
+    "city_name": "Bad Ems",
+    "halteverbot": "149,00 Euro",
+    "genehmigung": "21,00 Euro",
+    "gesamt": "170,00 Euro"
+  },
+  {
+    "city_name": "Bad Freienwalde",
+    "halteverbot": "157,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "157,00 Euro"
+  },
+  {
+    "city_name": "Bad Friedrichshall",
+    "halteverbot": "163,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "163,00 Euro"
+  },
+  {
+    "city_name": "Bad Gandersheim",
+    "halteverbot": "179,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "179,00 Euro"
+  },
+  {
+    "city_name": "Bad Harzburg",
+    "halteverbot": "175,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "175,00 Euro"
+  },
+  {
+    "city_name": "Bad Herrenalb",
+    "halteverbot": "254,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "254,00 Euro"
+  },
+  {
+    "city_name": "Bad Hersfeld",
+    "halteverbot": "220,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "220,00 Euro"
+  },
+  {
+    "city_name": "Bad Homburg vor der Höhe",
+    "halteverbot": "152,00 Euro",
+    "genehmigung": "18,00 Euro",
+    "gesamt": "170,00 Euro"
+  },
+  {
+    "city_name": "Bad Honnef",
+    "halteverbot": "128,00 Euro",
+    "genehmigung": "10,00 Euro",
+    "gesamt": "138,00 Euro"
+  },
+  {
+    "city_name": "Bad Kissingen",
+    "halteverbot": "120,00 Euro",
+    "genehmigung": "78,00 Euro",
+    "gesamt": "198,00 Euro"
+  },
+  {
+    "city_name": "Bad Kreuznach",
+    "halteverbot": "203,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "203,00 Euro"
+  },
+  {
+    "city_name": "Bad Krozingen",
+    "halteverbot": "182,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "182,00 Euro"
+  },
+  {
+    "city_name": "Bad Kötzting",
+    "halteverbot": "112,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "112,00 Euro"
+  },
+  {
+    "city_name": "Bad Lausick",
+    "halteverbot": "112,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "112,00 Euro"
+  },
+  {
+    "city_name": "Bad Lauterberg im Harz",
+    "halteverbot": "215,00 Euro",
+    "genehmigung": "65,00 Euro",
+    "gesamt": "280,00 Euro"
+  },
+  {
+    "city_name": "Bad Liebenzell",
+    "halteverbot": "119,00 Euro",
+    "genehmigung": "25,00 Euro",
+    "gesamt": "144,00 Euro"
+  },
+  {
+    "city_name": "Bad Lippspringe",
+    "halteverbot": "172,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "172,00 Euro"
+  },
+  {
+    "city_name": "Bad Lobenstein",
+    "halteverbot": "260,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "260,00 Euro"
+  },
+  {
+    "city_name": "Bad Marienberg",
+    "halteverbot": "105,00 Euro",
+    "genehmigung": "20,00 Euro",
+    "gesamt": "125,00 Euro"
+  },
+  {
+    "city_name": "Bad Mergentheim",
+    "halteverbot": "188,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "188,00 Euro"
+  },
+  {
+    "city_name": "Bad Münstereifel",
+    "halteverbot": "208,00 Euro",
+    "genehmigung": "30,00 Euro",
+    "gesamt": "238,00 Euro"
+  },
+  {
+    "city_name": "Bad Nauheim",
+    "halteverbot": "142,00 Euro",
+    "genehmigung": "15,00 Euro",
+    "gesamt": "157,00 Euro"
+  },
+  {
+    "city_name": "Bad Nenndorf",
+    "halteverbot": "157,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "157,00 Euro"
+  },
+  {
+    "city_name": "Bad Neuenahr-Ahrweiler",
+    "halteverbot": "134,00 Euro",
+    "genehmigung": "90,00 Euro",
+    "gesamt": "224,00 Euro"
+  },
+  {
+    "city_name": "Bad Neustadt an der Saale",
+    "halteverbot": "134,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "134,00 Euro"
+  },
+  {
+    "city_name": "Bad Oeynhausen",
+    "halteverbot": "135,00 Euro",
+    "genehmigung": "15,00 Euro",
+    "gesamt": "150,00 Euro"
+  },
+  {
+    "city_name": "Bad Oldesloe",
+    "halteverbot": "177,00 Euro",
+    "genehmigung": "50,00 Euro",
+    "gesamt": "227,00 Euro"
+  },
+  {
+    "city_name": "Bad Pyrmont",
+    "halteverbot": "165,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "165,00 Euro"
+  },
+  {
+    "city_name": "Bad Rappenau",
+    "halteverbot": "175,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "175,00 Euro"
+  },
+  {
+    "city_name": "Bad Reichenhall",
+    "halteverbot": "138,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "138,00 Euro"
+  },
+  {
+    "city_name": "Bad Rothenfelde",
+    "halteverbot": "184,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "184,00 Euro"
+  },
+  {
+    "city_name": "Bad Saarow",
+    "halteverbot": "113,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "113,00 Euro"
+  },
+  {
+    "city_name": "Bad Sachsa",
+    "halteverbot": "202,00 Euro",
+    "genehmigung": "65,00 Euro",
+    "gesamt": "267,00 Euro"
+  },
+  {
+    "city_name": "Bad Salzdetfurth",
+    "halteverbot": "280,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "280,00 Euro"
+  },
+  {
+    "city_name": "Bad Salzuflen",
+    "halteverbot": "168,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "168,00 Euro"
+  },
+  {
+    "city_name": "Bad Salzungen",
+    "halteverbot": "114,45 Euro",
+    "genehmigung": "30,55 Euro",
+    "gesamt": "145,00 Euro"
+  },
+  {
+    "city_name": "Bad Sassendorf",
+    "halteverbot": "158,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "158,00 Euro"
+  },
+  {
+    "city_name": "Bad Saulgau",
+    "halteverbot": "157,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "157,00 Euro"
+  },
+  {
+    "city_name": "Bad Schwalbach",
+    "halteverbot": "174,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "174,00 Euro"
+  },
+  {
+    "city_name": "Bad Schwartau",
+    "halteverbot": "169,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "169,00 Euro"
+  },
+  {
+    "city_name": "Bad Schönborn",
+    "halteverbot": "128,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "128,00 Euro"
+  },
+  {
+    "city_name": "Bad Segeberg",
+    "halteverbot": "160,00 Euro",
+    "genehmigung": "40,00 Euro",
+    "gesamt": "200,00 Euro"
+  },
+  {
+    "city_name": "Bad Sobernheim",
+    "halteverbot": "150,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "150,00 Euro"
+  },
+  {
+    "city_name": "Bad Soden am Taunus",
+    "halteverbot": "137,00 Euro",
+    "genehmigung": "20,00 Euro",
+    "gesamt": "157,00 Euro"
+  },
+  {
+    "city_name": "Bad Soden-Salmünster",
+    "halteverbot": "168,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "168,00 Euro"
+  },
+  {
+    "city_name": "Bad Sooden-Allendorf",
+    "halteverbot": "248,00 Euro",
+    "genehmigung": "20,00 Euro",
+    "gesamt": "268,00 Euro"
+  },
+  {
+    "city_name": "Bad Staffelstein",
+    "halteverbot": "119,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "119,00 Euro"
+  },
+  {
+    "city_name": "Bad Säckingen",
+    "halteverbot": "219,00 Euro",
+    "genehmigung": "50,00 Euro",
+    "gesamt": "269,00 Euro"
+  },
+  {
+    "city_name": "Bad Tölz",
+    "halteverbot": "224,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "224,00 Euro"
+  },
+  {
+    "city_name": "Bad Vilbel",
+    "halteverbot": "174,00 Euro",
+    "genehmigung": "30,00 Euro",
+    "gesamt": "204,00 Euro"
+  },
+  {
+    "city_name": "Bad Waldsee",
+    "halteverbot": "209,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "209,00 Euro"
+  },
+  {
+    "city_name": "Bad Wildbad",
+    "halteverbot": "134,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "134,00 Euro"
+  },
+  {
+    "city_name": "Bad Wildungen",
+    "halteverbot": "122,00 Euro",
+    "genehmigung": "23,00 Euro",
+    "gesamt": "145,00 Euro"
+  },
+  {
+    "city_name": "Bad Wimpfen",
+    "halteverbot": "198,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "198,00 Euro"
+  },
+  {
+    "city_name": "Bad Windsheim",
+    "halteverbot": "159,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "159,00 Euro"
+  },
+  {
+    "city_name": "Bad Wörishofen",
+    "halteverbot": "179,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "179,00 Euro"
+  },
+  {
+    "city_name": "Bad Zwischenahn",
+    "halteverbot": "249,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "249,00 Euro"
+  },
+  {
+    "city_name": "Bad Überkingen",
+    "halteverbot": "153,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "153,00 Euro"
+  },
+  {
+    "city_name": "Baddeckenstedt",
+    "halteverbot": "129,00 Euro",
+    "genehmigung": "40,00 Euro",
+    "gesamt": "169,00 Euro"
+  },
+  {
+    "city_name": "Baden-Baden",
+    "halteverbot": "175,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "175,00 Euro"
+  },
+  {
+    "city_name": "Baesweiler",
+    "halteverbot": "145,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "145,00 Euro"
+  },
+  {
+    "city_name": "Baiersdorf",
+    "halteverbot": "187,00 Euro",
+    "genehmigung": "20,00 Euro",
+    "gesamt": "207,00 Euro"
+  },
+  {
+    "city_name": "Ballrechten-Dottingen",
+    "halteverbot": "167,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "167,00 Euro"
+  },
+  {
+    "city_name": "Baltmannsweiler",
+    "halteverbot": "125,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "125,00 Euro"
+  },
+  {
+    "city_name": "Bamberg",
+    "halteverbot": "117,00 Euro",
+    "genehmigung": "20,00 Euro",
+    "gesamt": "137,00 Euro"
+  },
+  {
+    "city_name": "Bammental",
+    "halteverbot": "187,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "187,00 Euro"
+  },
+  {
+    "city_name": "Barbing",
+    "halteverbot": "145,00 Euro",
+    "genehmigung": "30,00 Euro",
+    "gesamt": "175,00 Euro"
+  },
+  {
+    "city_name": "Bargteheide",
+    "halteverbot": "142,00 Euro",
+    "genehmigung": "30,00 Euro",
+    "gesamt": "172,00 Euro"
+  },
+  {
+    "city_name": "Barleben",
+    "halteverbot": "165,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "165,00 Euro"
+  },
+  {
+    "city_name": "Barmstedt",
+    "halteverbot": "139,00 Euro",
+    "genehmigung": "25,00 Euro",
+    "gesamt": "164,00 Euro"
+  },
+  {
+    "city_name": "Barsbüttel",
+    "halteverbot": "135,00 Euro",
+    "genehmigung": "25,00 Euro",
+    "gesamt": "160,00 Euro"
+  },
+  {
+    "city_name": "Barsinghausen",
+    "halteverbot": "112,00 Euro",
+    "genehmigung": "105,00 Euro",
+    "gesamt": "217,00 Euro"
+  },
+  {
+    "city_name": "Barth",
+    "halteverbot": "225,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "225,00 Euro"
+  },
+  {
+    "city_name": "Barwedel",
+    "halteverbot": "130,00 Euro",
+    "genehmigung": "43,00 Euro",
+    "gesamt": "173,00 Euro"
+  },
+  {
+    "city_name": "Basel Schweiz",
+    "halteverbot": "332,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "332,00 Euro"
+  },
+  {
+    "city_name": "Baunatal",
+    "halteverbot": "162,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "162,00 Euro"
+  },
+  {
+    "city_name": "Bautzen",
+    "halteverbot": "117,00 Euro",
+    "genehmigung": "15,00 Euro",
+    "gesamt": "132,00 Euro"
+  },
+  {
+    "city_name": "Bayerisch Gmain",
+    "halteverbot": "325,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "325,00 Euro"
+  },
+  {
+    "city_name": "Bayreuth",
+    "halteverbot": "188,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "188,00 Euro"
+  },
+  {
+    "city_name": "Beckum",
+    "halteverbot": "213,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "213,00 Euro"
+  },
+  {
+    "city_name": "Bedburg",
+    "halteverbot": "159,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "159,00 Euro"
+  },
+  {
+    "city_name": "Beelitz",
+    "halteverbot": "148,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "148,00 Euro"
+  },
+  {
+    "city_name": "Beetzsee",
+    "halteverbot": "100,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "100,00 Euro"
+  },
+  {
+    "city_name": "Beilstein",
+    "halteverbot": "187,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "187,00 Euro"
+  },
+  {
+    "city_name": "Belgern-Schildau",
+    "halteverbot": "363,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "363,00 Euro"
+  },
+  {
+    "city_name": "Bendorf",
+    "halteverbot": "118,00 Euro",
+    "genehmigung": "45,00 Euro",
+    "gesamt": "163,00 Euro"
+  },
+  {
+    "city_name": "Benningen am Neckar",
+    "halteverbot": "150,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "150,00 Euro"
+  },
+  {
+    "city_name": "Bennstedt",
+    "halteverbot": "184,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "184,00 Euro"
+  },
+  {
+    "city_name": "Bensheim",
+    "halteverbot": "182,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "182,00 Euro"
+  },
+  {
+    "city_name": "Bentwisch",
+    "halteverbot": "135,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "135,00 Euro"
+  },
+  {
+    "city_name": "Berg",
+    "halteverbot": "138,00 Euro",
+    "genehmigung": "26,00 Euro",
+    "gesamt": "164,00 Euro"
+  },
+  {
+    "city_name": "Bergfeld",
+    "halteverbot": "130,00 Euro",
+    "genehmigung": "43,00 Euro",
+    "gesamt": "173,00 Euro"
+  },
+  {
+    "city_name": "Bergheim",
+    "halteverbot": "163,00 Euro",
+    "genehmigung": "26,00 Euro",
+    "gesamt": "189,00 Euro"
+  },
+  {
+    "city_name": "Bergisch Gladbach",
+    "halteverbot": "108,50 Euro",
+    "genehmigung": "31,50 Euro",
+    "gesamt": "140,00 Euro"
+  },
+  {
+    "city_name": "Bergkamen",
+    "halteverbot": "175,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "175,00 Euro"
+  },
+  {
+    "city_name": "Bergtheim",
+    "halteverbot": "184,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "184,00 Euro"
+  },
+  {
+    "city_name": "Berlin",
+    "halteverbot": "55,00 Euro",
+    "genehmigung": "15,00 Euro",
+    "gesamt": "70,00 Euro"
+  },
+  {
+    "city_name": "Bermatingen",
+    "halteverbot": "173,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "173,00 Euro"
+  },
+  {
+    "city_name": "Bernau",
+    "halteverbot": "94,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "94,00 Euro"
+  },
+  {
+    "city_name": "Bernau bei Berlin",
+    "halteverbot": "94,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "94,00 Euro"
+  },
+  {
+    "city_name": "Bernburg",
+    "halteverbot": "238,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "238,00 Euro"
+  },
+  {
+    "city_name": "Bernkastel-Kues",
+    "halteverbot": "218,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "218,00 Euro"
+  },
+  {
+    "city_name": "Besigheim",
+    "halteverbot": "144,00 Euro",
+    "genehmigung": "25,00 Euro",
+    "gesamt": "169,00 Euro"
+  },
+  {
+    "city_name": "Bestensee",
+    "halteverbot": "107,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "107,00 Euro"
+  },
+  {
+    "city_name": "Bestwig",
+    "halteverbot": "157,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "157,00 Euro"
+  },
+  {
+    "city_name": "Betzigau",
+    "halteverbot": "202,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "202,00 Euro"
+  },
+  {
+    "city_name": "Biberach an der Riß",
+    "halteverbot": "274,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "274,00 Euro"
+  },
+  {
+    "city_name": "Bickenbach",
+    "halteverbot": "175,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "175,00 Euro"
+  },
+  {
+    "city_name": "Biebelried",
+    "halteverbot": "142,00 Euro",
+    "genehmigung": "20,00 Euro",
+    "gesamt": "162,00 Euro"
+  },
+  {
+    "city_name": "Biebertal",
+    "halteverbot": "134,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "134,00 Euro"
+  },
+  {
+    "city_name": "Biebesheim",
+    "halteverbot": "139,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "139,00 Euro"
+  },
+  {
+    "city_name": "Bielefeld",
+    "halteverbot": "164,50 Euro",
+    "genehmigung": "14,50 Euro",
+    "gesamt": "179,00 Euro"
+  },
+  {
+    "city_name": "Bietigheim",
+    "halteverbot": "144,00 Euro",
+    "genehmigung": "100,00 Euro",
+    "gesamt": "244,00 Euro"
+  },
+  {
+    "city_name": "Bietigheim-Bissingen",
+    "halteverbot": "143,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "143,00 Euro"
+  },
+  {
+    "city_name": "Billerbeck",
+    "halteverbot": "125,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "125,00 Euro"
+  },
+  {
+    "city_name": "Bingen am Rhein",
+    "halteverbot": "182,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "182,00 Euro"
+  },
+  {
+    "city_name": "Birkenau",
+    "halteverbot": "166,00 Euro",
+    "genehmigung": "18,00 Euro",
+    "gesamt": "184,00 Euro"
+  },
+  {
+    "city_name": "Birkenfeld",
+    "halteverbot": "212,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "212,00 Euro"
+  },
+  {
+    "city_name": "Birkenfeld - Baden-Württemberg",
+    "halteverbot": "183,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "183,00 Euro"
+  },
+  {
+    "city_name": "Birkenwerder",
+    "halteverbot": "85,00 Euro",
+    "genehmigung": "15,00 Euro",
+    "gesamt": "100,00 Euro"
+  },
+  {
+    "city_name": "Birlenbach",
+    "halteverbot": "129,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "129,00 Euro"
+  },
+  {
+    "city_name": "Bischofsheim",
+    "halteverbot": "158,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "158,00 Euro"
+  },
+  {
+    "city_name": "Bischofsheim an der Rhön",
+    "halteverbot": "148,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "148,00 Euro"
+  },
+  {
+    "city_name": "Bissendorf",
+    "halteverbot": "167,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "167,00 Euro"
+  },
+  {
+    "city_name": "Bissingen an der Teck",
+    "halteverbot": "142,00 Euro",
+    "genehmigung": "15,00 Euro",
+    "gesamt": "157,00 Euro"
+  },
+  {
+    "city_name": "Bitterfeld-Wolfen",
+    "halteverbot": "169,00 Euro",
+    "genehmigung": "25,00 Euro",
+    "gesamt": "194,00 Euro"
+  },
+  {
+    "city_name": "Blankenburg",
+    "halteverbot": "175,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "175,00 Euro"
+  },
+  {
+    "city_name": "Blankenfelde",
+    "halteverbot": "90,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "90,00 Euro"
+  },
+  {
+    "city_name": "Blankenheim",
+    "halteverbot": "205,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "205,00 Euro"
+  },
+  {
+    "city_name": "Blaustein",
+    "halteverbot": "169,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "169,00 Euro"
+  },
+  {
+    "city_name": "Bobenheim-Roxheim",
+    "halteverbot": "144,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "144,00 Euro"
+  },
+  {
+    "city_name": "Bobingen",
+    "halteverbot": "163,00 Euro",
+    "genehmigung": "95,00 Euro",
+    "gesamt": "258,00 Euro"
+  },
+  {
+    "city_name": "Bocholt",
+    "halteverbot": "173,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "173,00 Euro"
+  },
+  {
+    "city_name": "Bochum",
+    "halteverbot": "167,00 Euro",
+    "genehmigung": "15,00 Euro",
+    "gesamt": "182,00 Euro"
+  },
+  {
+    "city_name": "Bodenheim",
+    "halteverbot": "132,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "132,00 Euro"
+  },
+  {
+    "city_name": "Boizenburg Elbe",
+    "halteverbot": "265,00 Euro",
+    "genehmigung": "60,00 Euro",
+    "gesamt": "325,00 Euro"
+  },
+  {
+    "city_name": "Bokensdorf",
+    "halteverbot": "130,00 Euro",
+    "genehmigung": "43,00 Euro",
+    "gesamt": "173,00 Euro"
+  },
+  {
+    "city_name": "Bonn",
+    "halteverbot": "108,00 Euro",
+    "genehmigung": "30,00 Euro",
+    "gesamt": "138,00 Euro"
+  },
+  {
+    "city_name": "Bopfingen",
+    "halteverbot": "184,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "184,00 Euro"
+  },
+  {
+    "city_name": "Bordesholm",
+    "halteverbot": "157,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "157,00 Euro"
+  },
+  {
+    "city_name": "Borken",
+    "halteverbot": "220,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "220,00 Euro"
+  },
+  {
+    "city_name": "Borna",
+    "halteverbot": "198,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "198,00 Euro"
+  },
+  {
+    "city_name": "Bornheim",
+    "halteverbot": "140,00 Euro",
+    "genehmigung": "60,00 Euro",
+    "gesamt": "200,00 Euro"
+  },
+  {
+    "city_name": "Bottrop",
+    "halteverbot": "128,00 Euro",
+    "genehmigung": "36,00 Euro",
+    "gesamt": "164,00 Euro"
+  },
+  {
+    "city_name": "Bovenden",
+    "halteverbot": "149,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "149,00 Euro"
+  },
+  {
+    "city_name": "Brackenheim",
+    "halteverbot": "194,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "194,00 Euro"
+  },
+  {
+    "city_name": "Brake",
+    "halteverbot": "175,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "175,00 Euro"
+  },
+  {
+    "city_name": "Brandenburg an der Havel",
+    "halteverbot": "169,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "169,00 Euro"
+  },
+  {
+    "city_name": "Braunschweig",
+    "halteverbot": "89,00 Euro",
+    "genehmigung": "25,00 Euro",
+    "gesamt": "114,00 Euro"
+  },
+  {
+    "city_name": "Breisach",
+    "halteverbot": "175,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "175,00 Euro"
+  },
+  {
+    "city_name": "Breisach am Rhein",
+    "halteverbot": "175,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "175,00 Euro"
+  },
+  {
+    "city_name": "Breitenburg",
+    "halteverbot": "163,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "163,00 Euro"
+  },
+  {
+    "city_name": "Bremen",
+    "halteverbot": "119,00 Euro",
+    "genehmigung": "23,00 Euro",
+    "gesamt": "142,00 Euro"
+  },
+  {
+    "city_name": "Bremerhaven",
+    "halteverbot": "109,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "109,00 Euro"
+  },
+  {
+    "city_name": "Bretten",
+    "halteverbot": "192,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "192,00 Euro"
+  },
+  {
+    "city_name": "Brieselang",
+    "halteverbot": "118,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "118,00 Euro"
+  },
+  {
+    "city_name": "Brome",
+    "halteverbot": "130,00 Euro",
+    "genehmigung": "43,00 Euro",
+    "gesamt": "173,00 Euro"
+  },
+  {
+    "city_name": "Bruchköbel",
+    "halteverbot": "137,00 Euro",
+    "genehmigung": "35,00 Euro",
+    "gesamt": "172,00 Euro"
+  },
+  {
+    "city_name": "Bruchsal",
+    "halteverbot": "190,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "190,00 Euro"
+  },
+  {
+    "city_name": "Bruckmühl",
+    "halteverbot": "134,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "134,00 Euro"
+  },
+  {
+    "city_name": "Brunnthal",
+    "halteverbot": "132,00 Euro",
+    "genehmigung": "50,00 Euro",
+    "gesamt": "182,00 Euro"
+  },
+  {
+    "city_name": "Brühl in Baden-Württemberg",
+    "halteverbot": "143,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "143,00 Euro"
+  },
+  {
+    "city_name": "Brühl in NRW",
+    "halteverbot": "138,00 Euro",
+    "genehmigung": "52,00 Euro",
+    "gesamt": "190,00 Euro"
+  },
+  {
+    "city_name": "Brüssel",
+    "halteverbot": "285,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "285,00 Euro"
+  },
+  {
+    "city_name": "Bubenreuth",
+    "halteverbot": "159,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "159,00 Euro"
+  },
+  {
+    "city_name": "Buchholz i.d. Nordheide",
+    "halteverbot": "132,00 Euro",
+    "genehmigung": "30,00 Euro",
+    "gesamt": "162,00 Euro"
+  },
+  {
+    "city_name": "Buchholz in der Nordheide",
+    "halteverbot": "137,00 Euro",
+    "genehmigung": "30,00 Euro",
+    "gesamt": "167,00 Euro"
+  },
+  {
+    "city_name": "Buckenhof",
+    "halteverbot": "138,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "138,00 Euro"
+  },
+  {
+    "city_name": "Budenheim",
+    "halteverbot": "142,00 Euro",
+    "genehmigung": "0,00 Euro",
+    "gesamt": "142,00 Euro"
+  }
+]
